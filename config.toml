@@ -1,0 +1,4 @@
+baseURL = "http://lykken.dev/"
+languageCode = "no-nb"
+title = "Lykken"
+theme = "ananke"
